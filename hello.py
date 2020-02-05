@@ -1,3 +1,3 @@
 msg = "Hello Boy"
-msg2 = "Handsome"
+msg2 = "How are you"
 print(msg,msg2)
